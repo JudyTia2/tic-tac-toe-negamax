@@ -1,0 +1,47 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.py.class
+
+# ---- Virtual Environment ----
+.venv/
+venv/
+env/
+ENV/
+.idea/
+.vscode/
+
+# ---- OS / Editor files ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs / Reports ----
+*.log
+*.out
+*.err
+
+# ---- Test cache ----
+.cache/
+.pytest_cache/
+htmlcov/
+coverage.xml
+*.cover
+
+# ---- Build / Distribution ----
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- Tkinter temporary files ----
+*.tcl
+*.tk
+
+# ---- Backup / Misc ----
+*.bak
+*.swp
+*.tmp
