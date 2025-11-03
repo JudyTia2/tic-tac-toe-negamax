@@ -23,7 +23,7 @@ This project uses only Python’s standard libraries—no extra packages needed.
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/JudyTia2/tic-tac-toe-negamax.git
    cd tic_tac_toe
    ```
 
